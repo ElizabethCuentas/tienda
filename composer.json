@@ -1,0 +1,20 @@
+{
+    "name": "elizabeth/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "elizabeth cuentas",
+            "email": "eliiz.cris21@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "elizabeth\\":"src/"
+        }
+    }
+}
